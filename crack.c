@@ -8,6 +8,7 @@ const int PASS_LEN = 20;        // Maximum any password will be
 const int HASH_LEN = 33;        // Length of MD5 hash strings
 
 
+
 // Given a target plaintext word, use it to try to find
 // a matching hash in the hashFile.
 // Get this function working first!
